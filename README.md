@@ -1,5 +1,5 @@
 # Algorithms-Analysis-Design
-### we are here to help Algo Jones to find the ancient treasures / lost relic by implement algorithms and analysis the problems.
+### We are here to help Algo Jones to find the ancient treasures / lost relic by implement algorithms and analysis the problems.
 
 ### Below here is the introduction of the adventure: 
 
